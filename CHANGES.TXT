@@ -1,0 +1,10 @@
+Change log for SWP-700010183 rev A
+
+Linux Software (SYNC35104)
+
+Copyright (C) RTD Embedded Technologies, Inc.  All Rights Reserved.
+
+
+v01.00.00 (rev A)  LRF 
+-----------------------------------
+- Initial version
