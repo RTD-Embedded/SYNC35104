@@ -1,4 +1,4 @@
-# Linux Software (SYNC35104)
+# Software (SYNC35104)
 
 > SWP-700010183 rev A
 >
